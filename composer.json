@@ -1,0 +1,14 @@
+{
+  "name": "brisum/js-lib",
+  "description": "JS Lib",
+  "keywords": [],
+  "homepage": "https://github.com/brisum/js-lib",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Oleksandr Manchenko",
+      "email": "omanchenko@brisum.com",
+      "homepage": "http://brisum.com"
+    }
+  ]
+}
