@@ -11,4 +11,4 @@ class Widget {
 }
 Widget.defaults = {};
 
-export default Widget;
+module.exports =  Widget;

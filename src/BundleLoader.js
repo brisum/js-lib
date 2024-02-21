@@ -23,4 +23,4 @@ class BundleLoader {
   };
 }
 
-export default BundleLoader;
+module.exports = BundleLoader;

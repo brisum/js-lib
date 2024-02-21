@@ -64,4 +64,4 @@ class RequireInit {
   }
 }
 
-export default RequireInit;
+module.exports = RequireInit;

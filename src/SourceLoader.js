@@ -83,3 +83,5 @@ class SourceLoader {
     });
   };
 }
+
+module.exports = SourceLoader;
